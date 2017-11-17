@@ -9,7 +9,7 @@ import { Navbar, Nav, NavItem } from 'react-bootstrap';
 import registerServiceWorker from './registerServiceWorker';
 
 const Root = () => 
-<Router basename="/Scoop-Apps/">
+<Router basename="/scoop-app/">
     <div>
         
         <Navbar>
